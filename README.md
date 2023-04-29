@@ -51,5 +51,7 @@ pyinstaller --onefile путь_к_папке/wallet_gui.py
 Указать сумму и нажать кнопку![image](https://user-images.githubusercontent.com/48527047/235296083-2011cb2a-54da-48d3-855a-839b6cb5cc24.png)
 
 Пример работы с програмой:
+
+
 ![image](https://user-images.githubusercontent.com/48527047/235296141-e46287e8-3303-4e75-a34a-88bf01ae211c.png)
 
