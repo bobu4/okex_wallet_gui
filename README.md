@@ -40,6 +40,7 @@ pip3 install pyinstaller
 Для торговли небходимо иметь баланс на торговом аккаунте, выбрать тип ордера в выпадающем списке ![image](https://user-images.githubusercontent.com/48527047/235296019-158f8b80-e356-4715-9499-81f98246926d.png)
 Указать торговую пару ![image](https://user-images.githubusercontent.com/48527047/235296052-3dad8da0-3b7b-41e0-a176-1065dfd98bb6.png)
 Указать сумму и нажать кнопку![image](https://user-images.githubusercontent.com/48527047/235296083-2011cb2a-54da-48d3-855a-839b6cb5cc24.png)
+
 Пример работы с програмой:
 ![image](https://user-images.githubusercontent.com/48527047/235296141-e46287e8-3303-4e75-a34a-88bf01ae211c.png)
 
