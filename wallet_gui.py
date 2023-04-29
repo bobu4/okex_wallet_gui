@@ -49,7 +49,7 @@ class MainWindow(QWidget):
         secret_key = '12341245356sdfvnhgjngj'
         passphrase = '1234567899qwee'
         self.subacc_dict = {'subacc_list':
-                            [{'api_key': 'Example', 'secret_key': 'Example', 'pass': 'Example'},
+                            [{'api_key': None, 'secret_key': None, 'pass': None},
                              {'api_key': None, 'secret_key': None, 'pass': None},
                              {'api_key': None, 'secret_key': None, 'pass': None},
                              {'api_key': None, 'secret_key': None, 'pass': None}
