@@ -31,6 +31,7 @@ pyinstaller --onefile путь_к_папке/wallet_gui.py
 Сеть вывода ![image](https://user-images.githubusercontent.com/48527047/235295541-eb1e748f-2c62-4d50-bd0e-545a58cda44d.png)
 Номер кошелька, идут по порядку как и в нашем файле
 ![image](https://user-images.githubusercontent.com/48527047/235295587-fbdbdd19-b0af-4759-8f46-06e2a21726be.png)
+
 Для вывода произвольного значения нужно выбрать Диапазон в соответствующем выпадающем списке
 ![image](https://user-images.githubusercontent.com/48527047/235295634-a3356496-bf7a-4cc8-8139-0ab671cf8633.png)
 Ввести минимальное и максимальное значение в соответствующих полях.
